@@ -1,0 +1,1 @@
+Calculates greatest common divisor. 
